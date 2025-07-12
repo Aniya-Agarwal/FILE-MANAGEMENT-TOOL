@@ -70,3 +70,4 @@ This program fulfills the deliverable of showcasing file-handling techniques in 
 The File Management Tool is a robust example of file handling in C++. It is easy to understand, modify, and extend. Whether used for academic learning or small-scale projects, this application highlights the core functionality of file manipulation, a fundamental concept in software development.
 
 #OUTPUT
+<img width="1318" height="564" alt="Image" src="https://github.com/user-attachments/assets/3b867ead-00d8-46f9-8909-beb9a0b28eae" />
